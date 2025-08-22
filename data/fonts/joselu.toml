@@ -1,0 +1,11 @@
+# Font style metadata
+name = "Joselu"
+
+# Optional Google font URL
+google_fonts = "family=Merriweather:ital,opsz,wght@0,18..144,300..900;1,18..144,300..900&family=Montserrat:ital,wght@0,100..900;1,100..900&family=PT+Mono"
+
+# Font families
+heading_font = "Montserrat"
+body_font = "Merriweather"
+nav_font = "Montserrat"
+mono_font = "PT Mono"

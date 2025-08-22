@@ -74,5 +74,5 @@ email: ''
 highlight_name: true
 ---
 
-Dr. José Luis Garrido-Labrador is an Assistant Lecturer in Computer Languages and Systems at Universidad de Burgos, specializing in Machine Learning with a focus on semi-supervised learning and restricted set classification. He holds a PhD in Machine Learning and has a background in computer engineering and business intelligence.
+I am an Assistant Lecturer in Computer Languages and Systems at Universidad de Burgos, specializing in Machine Learning with a focus on semi-supervised learning and restricted set classification. I hold a PhD in Machine Learning and have a background in computer engineering and business intelligence.
 {style="text-align: justify;"}
