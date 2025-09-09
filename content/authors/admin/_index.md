@@ -75,7 +75,7 @@ highlight_name: true
 ---
 
 I am an Assistant Lecturer in Computer Languages and Systems at Universidad de Burgos, 
-specializing in Machine Learning with a focus on semi-supervised learning and restricted set classification. 
-I hold a PhD in Machine Learning and have a background in computer engineering and business intelligence. 
+specializing in machine learning with a focus on semi-supervised learning and restricted set classification. 
+I have a PhD in machine learning, as well as a background in computer engineering and business intelligence. 
 I belong to the research group [ADMIRABLE](https://admirable-ubu.es/) (Advanced Data Mining Research And [Business intelligence | Bioinformatics | Big Data] Learning).
 {style="text-align: justify;"}

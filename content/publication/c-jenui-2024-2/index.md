@@ -4,7 +4,7 @@ authors:
 - Raúl Marticorena Sánchez
 - Carlos López Nozal
 - José Miguel Ramírez-Sanz
-- José Luis Garrido-Labrador
+- admin
 author_notes: 
 - Corresponding author
 - Speaker
